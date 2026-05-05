@@ -39,7 +39,8 @@ const MODEL_MAPPING = {
   'GLM': 'z-ai/glm4.7',
   'GLM2': 'z-ai/glm5',
   'Google': 'google/gemma-4-31b-it',
-  'GLM3': 'z-ai/glm-5.1'
+  'GLM3': 'z-ai/glm-5.1',
+  'Moonshotai': 'moonshotai/kimi-k2.6'
 };
 
 // Root endpoint
