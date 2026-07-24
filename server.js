@@ -42,6 +42,7 @@ const MODEL_MAPPING = {
   'GLM3': 'z-ai/glm-5.1',
   'Moonshotai': 'moonshotai/kimi-k2.6',
   'gpt-5': 'deepseek-ai/deepseek-v4-pro'
+  'glm-5': 'z-ai/glm-5.2'
 };
 
 // Root endpoint
